@@ -1,0 +1,6 @@
+
+        favorite movie: Basic Instinct
+        favorite show: The big bang theoty
+        favorite food: Fish and vegetables
+        favorite time of year: Summer
+        country to visit: Australia
