@@ -1,1 +1,15 @@
-
+|ID| |481|
+|Severity| |Major|
+|Environment| |Windows10, Opera (99.0.4788.75)|
+|Title| |[Opera] The country does not change when  selected a country in dropdown  [Countries and languges]|
+|Steps| |1. Navigate to capital.com|
+      	|2. click dropdown [Countries and languages]|
+      	|3. click dropdown [Countries]|
+      	|4. Select any countries|
+      	|Note. "Reproduced only for Opera browser|
+|Expected Result| |1. Country changed for selected|
+|Actual Result| |1. Country doesn't changes|
+|Attachment| |"https://drive.google.com/file/d/16TYzUh6VqhcXLr_o7IFbhsUFJ-rpAoDp/view?usp=drivesdk"|
+|License| |ALL|
+|Role| |ALL|
+|Author| |Marina Sh|
